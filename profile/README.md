@@ -36,16 +36,31 @@ Here are some steps to follow, if you want to contribute,
 - Have patience till it is merged
 
 
-### Something more
+### Our Products
 
-👩‍💻 Visit our [website](https://www.edualgoacademy.com/), check the [study corner](https://study.edualgoacademy.com/),and the [OSS corner](https://oss.edualgoacademy.com/). Finally
-check an early access version of our android app [constack](https://play.google.com/store/apps/details?id=com.edualgoacademy.constack).
+- Programming & Technical Courses - Visit our [website](https://www.edualgoacademy.com/)
+- FREE Study Portal - Check the [study corner](https://study.edualgoacademy.com/)
+- Opensource Corner - The [OSS corner](https://oss.edualgoacademy.com/)
+- Constack Android App(Early Access Version) - Our android app [constack](https://play.google.com/store/apps/details?id=com.edualgoacademy.constack)
 
-🍿 Fun facts - we like to send swags to contributors who deserve it.
+### Out text publications
 
-### Our courses and study material
+- A beginner's guide to Python - This book provides a clear and concise text for beginners to get started with the python programming language in a simple and systematic way. Read this book to learn some basic concepts of python in an easy manner and apply them to solve 150+ programming problems included in the book. You can purchase it from Notion Press, Amazon and Flipkart.
+- Data Structures and Algorithms Study Material: A complete guide for software interviews - Prepared by the experts at Edualgo Academy and Product Based companies, this study material is a self-study guide and a must for anyone preparing for software interviews. Available on google books as E-Book, for hardcopy, get in touch.
 
-We teach people, we upskill them and we make sure they have the access to the best content. Don't forget to checkout our courses [here](https://www.edualgoacademy.com).
+### Our research publications
+We have only one international publication as of now,
+
+Abhijit Tripathy, "Transitive Closure of a Graph using Graph Powering & Further Optimization by Euler's Fast Powering Algorithm", International Journal of Science and Research (IJSR), https://www.ijsr.net/search_index_results_paperid.php?id=MR21613054013, Volume 10 Issue 6, June 2021, 869 - 873
+
+### Growth Statistics
+
+- **Average monthly unique page visits** - 55k (top 5 countries)
+- **Total Students Trained** - 200
+- **Total Learners** - 1000+
+- **Total Events Conducted** - 20+ (including international events)
+- **Student Diversity** - India, Indonesia, USA, Germany, UAE, Nigeria, Ghana etc.
+- **Professionals Trained** - 8
 
 ### Contact Us
 
