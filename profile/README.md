@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://www.edualgoacademy.com/myapp/static/images/logo/logo.svg" width="50%">
+</p>
 
 # Welcome to Edualgo Academy 👋
 
