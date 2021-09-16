@@ -45,13 +45,13 @@ Here are some steps to follow, if you want to contribute,
 
 ### Out text publications
 
-- A beginner's guide to Python - This book provides a clear and concise text for beginners to get started with the python programming language in a simple and systematic way. Read this book to learn some basic concepts of python in an easy manner and apply them to solve 150+ programming problems included in the book. You can purchase it from Notion Press, Amazon and Flipkart.
-- Data Structures and Algorithms Study Material: A complete guide for software interviews - Prepared by the experts at Edualgo Academy and Product Based companies, this study material is a self-study guide and a must for anyone preparing for software interviews. Available on google books as E-Book, for hardcopy, get in touch.
+- **A beginner's guide to Python** - This book provides a clear and concise text for beginners to get started with the python programming language in a simple and systematic way. Read this book to learn some basic concepts of python in an easy manner and apply them to solve 150+ programming problems included in the book. You can purchase it from Notion Press, Amazon and Flipkart.
+- **Data Structures and Algorithms Study Material**: A complete guide for software interviews - Prepared by the experts at Edualgo Academy and Product Based companies, this study material is a self-study guide and a must for anyone preparing for software interviews. Available on google books as E-Book, for hardcopy, get in touch.
 
 ### Our research publications
 We have only one international publication as of now,
 
-Abhijit Tripathy, "Transitive Closure of a Graph using Graph Powering & Further Optimization by Euler's Fast Powering Algorithm", International Journal of Science and Research (IJSR), https://www.ijsr.net/search_index_results_paperid.php?id=MR21613054013, Volume 10 Issue 6, June 2021, 869 - 873
+Abhijit Tripathy, "**Transitive Closure of a Graph using Graph Powering & Further Optimization by Euler's Fast Powering Algorithm**", International Journal of Science and Research (IJSR), [Check Here](https://www.ijsr.net/search_index_results_paperid.php?id=MR21613054013), Volume 10 Issue 6, June 2021, Page 869 - 873
 
 ### Growth Statistics
 
