@@ -1,3 +1,5 @@
+![](https://www.edualgoacademy.com/myapp/static/images/logo/logo.svg)
+
 # Welcome to Edualgo Academy 👋
 
 🙋‍♀️ **Edualgo Academy** is a small startup, focused on building learner centric, research based education curriculum. Complexities are everywhere, 
