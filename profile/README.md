@@ -39,6 +39,10 @@ check an early access version of our android app [constack](https://play.google.
 
 🍿 Fun facts - we like to send swags to contributors who deserve it.
 
+### Our courses and study material
+
+We teach people, we upskill them and we make sure they have the access to the best content. Don't forget to checkout our courses [here](https://www.edualgoacademy.com).
+
 ### Contact Us
 
 Mail us [here](mailto:opensource@edualgoacademy.com)
