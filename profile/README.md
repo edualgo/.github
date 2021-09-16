@@ -1,4 +1,4 @@
-![](https://www.edualgoacademy.com/myapp/static/images/logo/logo.svg)
+<img src="https://www.edualgoacademy.com/myapp/static/images/logo/logo.svg" width="50%">
 
 # Welcome to Edualgo Academy 👋
 
