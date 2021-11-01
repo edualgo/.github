@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.edualgoacademy.com/myapp/static/images/logo/logo.svg" width="50%">
+<img src="https://i.postimg.cc/yN581Nyh/Opensource-Logo-removebg-preview.pngg" width="30%">
 </p>
 
 # Welcome to Edualgo Academy 👋
